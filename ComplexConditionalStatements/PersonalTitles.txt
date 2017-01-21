@@ -1,0 +1,26 @@
+using System;
+
+namespace PersonalTitles
+{
+    class PersonalTitles
+    {
+        static void Main(string[] args)
+        {
+            double years = double.Parse(Console.ReadLine());
+            string personal = Console.ReadLine();
+
+            if (years < 16)
+            {
+                if (personal == "m") Console.WriteLine("Master");
+
+                else if (personal == "f") Console.WriteLine("Miss");
+            }
+
+            else 
+            {
+                if (personal == "m") Console.WriteLine("Mr.");
+                else if (personal == "f") Console.WriteLine("Ms.");
+            }
+        }
+    }
+}

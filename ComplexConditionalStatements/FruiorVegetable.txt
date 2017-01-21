@@ -1,0 +1,26 @@
+using System;
+
+namespace FruiorVegetable
+{
+    class FruiorVegetable
+    {
+        static void Main(string[] args)
+        {
+            string tex1 = Console.ReadLine();
+           // string tex2 = Console.ReadLine();
+
+            if(tex1 =="banana" || tex1 == "apple" || tex1 == "kiwi" || tex1 == "cherry" || tex1 =="lemon" || tex1 == "grapes")
+            {
+                Console.WriteLine("Fruit");
+            }
+            else if(tex1 == "tomato" || tex1 == "cucumber" || tex1 == "pepper" || tex1 == "carrot")
+            {
+                Console.WriteLine("vegetable");
+            }
+            else
+            {
+                Console.WriteLine("unknown");
+            }
+        }
+    }
+}
