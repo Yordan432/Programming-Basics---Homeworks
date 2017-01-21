@@ -1,0 +1,37 @@
+using System;
+
+namespace LeftRightSum
+{
+    class LeftRightSum
+    {
+        static void Main(string[] args)
+        {
+            int sum = int.Parse(Console.ReadLine());
+
+            if(sum == 2)
+            {
+                int NumberOne = int.Parse(Console.ReadLine());
+                int NumberTwo = int.Parse(Console.ReadLine());
+                int NumberThree = int.Parse(Console.ReadLine());
+                int NumberFour = int.Parse(Console.ReadLine());
+
+                var result = NumberOne + NumberTwo;
+                var resultOther = NumberThree + NumberFour;
+                Console.Write("Yes,sum = ");
+                Console.WriteLine(result);
+            }
+            else
+            {
+                int NumberOne = int.Parse(Console.ReadLine());
+                int NumberTwo = int.Parse(Console.ReadLine());
+                int NumberThree = int.Parse(Console.ReadLine());
+                int NumberFour = int.Parse(Console.ReadLine());
+
+                var result = NumberOne + NumberTwo;
+                var resultOther = NumberThree + NumberFour;
+                Console.Write("No, diff = ");
+                Console.WriteLine(result);
+            }
+        }
+    }
+}

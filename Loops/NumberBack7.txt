@@ -1,0 +1,19 @@
+using System;
+
+namespace NumberBack7
+{
+    class NumberBack7
+    {
+        static void Main()
+        {
+           // int num = int.Parse(Console.ReadLine());
+            for (int num = 1; num <=1000; num++)
+            {
+               if(num % 10 == 7)
+                {
+                    Console.WriteLine(num);
+                }
+            }
+        }
+    }
+}
