@@ -1,0 +1,40 @@
+using System;
+
+namespace SumSeconds
+{
+    class SumSecods
+    {
+        static void Main(string[] args)
+        {
+            double sec1 = double.Parse(Console.ReadLine());
+            double sec2 = double.Parse(Console.ReadLine());
+            double sec3 = double.Parse(Console.ReadLine());
+
+            double mins = 0;
+            double secs = sec1 + sec2 + sec3;
+
+            if(secs > 0 && secs <=59)
+            {
+                Console.WriteLine(mins + ":" + secs);
+            }
+            else if(secs >60 && secs < 119)
+            {
+                double secstotal = secs - 60;
+                Console.WriteLine(mins + 1 + ":" + secstotal);
+            }
+            else if (secs > 120 && secs <179)
+            {
+                double secstotal = secs - 120;
+                Console.WriteLine(mins + 2 + ":" + secstotal);
+            }
+            if(secs <10)
+            {
+                Console.WriteLine(mins + ":" + "0" + secs);
+            }
+            else
+            {
+                Console.WriteLine(mins + ":" + secs);
+            }
+        }
+    }
+}

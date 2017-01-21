@@ -1,0 +1,22 @@
+using System;
+
+namespace BigNumber
+{
+    class BigNumber
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+            var LastNumber = int.Parse(Console.ReadLine());
+
+            if(number > LastNumber)
+            {
+                Console.WriteLine(number);
+            }
+            else
+            {
+                Console.WriteLine(LastNumber);
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+using System;
+
+namespace Excellent
+{
+    class Excellent
+    {
+        static void Main(string[] args)
+        {
+            double Evaluation = double.Parse(Console.ReadLine());
+
+            if(Evaluation >=5.50)
+            {
+                Console.WriteLine("Excellent!");
+            }
+            else
+            {
+                Console.WriteLine("Not excellent.");
+            }
+        }
+    }
+}

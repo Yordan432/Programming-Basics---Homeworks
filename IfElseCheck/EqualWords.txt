@@ -1,0 +1,22 @@
+using System;
+
+namespace EqualWords
+{
+    class EqualWords
+    {
+        static void Main(string[] args)
+        {
+            string EqualWords = Console.ReadLine();
+            string words = Console.ReadLine();
+
+            if (EqualWords == words)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
+        }
+    }
+}
