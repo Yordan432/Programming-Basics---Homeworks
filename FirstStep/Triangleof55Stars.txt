@@ -1,0 +1,21 @@
+using System;
+
+namespace Triangleof55Stars
+{
+    class Triangleof55Stars
+    {
+        static void Main()
+        {
+            int n = int.Parse(Console.ReadLine());
+            for (int row = 0; row <=n; row++)
+            {
+                for (int i = 0; i <= row; i++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+            
+        }
+    }
+}

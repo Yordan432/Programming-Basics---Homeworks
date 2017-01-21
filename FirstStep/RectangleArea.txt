@@ -1,0 +1,15 @@
+using System;
+
+namespace RectangleArea
+{
+    class RectangleArea
+    {
+        static void Main()
+        {
+            var a = int.Parse(Console.ReadLine());
+            var b = int.Parse(Console.ReadLine());
+            var result = a * b;
+            Console.WriteLine(result);
+        }
+    }
+}
