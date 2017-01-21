@@ -1,0 +1,13 @@
+using System;
+
+namespace GrettingName
+{
+    class GrettingName
+    {
+        static void Main(string[] args)
+        {
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello , " + name);
+        }
+    }
+}

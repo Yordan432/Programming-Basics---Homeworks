@@ -1,0 +1,13 @@
+using System;
+
+namespace SquareaArea
+{
+    class SquareArea
+    {
+        static void Main(string[] args)
+        {
+            int FirstNumber = int.Parse(Console.ReadLine());
+            Console.WriteLine(FirstNumber * FirstNumber);
+        }
+    }
+}

@@ -1,0 +1,19 @@
+using System;
+
+namespace CurrencyConverter
+{
+    class CurrencyConverter
+    {
+        static void Main(string[] args)
+        {
+            var number = double.Parse(Console.ReadLine());
+            var USD = Console.ReadLine();
+            var BGN = Console.ReadLine();
+
+            var result = number * 1.79549;
+            var numberresult = number * 1.95583;
+            var resultnumber = number * 2.53405;
+            Console.WriteLine(result);
+        }
+    }
+}

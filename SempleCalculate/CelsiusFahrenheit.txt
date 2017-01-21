@@ -1,0 +1,16 @@
+using System;
+
+namespace CelsiustoFahrenheit
+{
+    class CelsiusFahrenheit
+    {
+        static void Main()
+        {
+
+
+            var celsius = double.Parse(Console.ReadLine());
+            var result = 1.8 * celsius + 32;
+            Console.WriteLine(result);
+        }
+    }
+}

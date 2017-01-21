@@ -1,0 +1,17 @@
+using System;
+
+namespace RadianstoDegrees
+{
+    class RadianstoDegrees
+    {
+        static void Main(string[] args)
+        {
+            var radians = double.Parse(Console.ReadLine());
+           // var degress = double.Parse(Console.ReadLine());
+           // var radian = degress * Math.PI / 180;
+            var degrees = radians * 180 / Math.PI;
+            Console.WriteLine(degrees);
+
+        }
+    }
+}

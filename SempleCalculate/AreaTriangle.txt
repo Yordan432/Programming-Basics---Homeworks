@@ -1,0 +1,16 @@
+using System;
+
+namespace AreaTriangle
+{
+    class AreaTriangle
+    {
+        static void Main()
+        {
+            double FirstNumber = double.Parse(Console.ReadLine());
+            double SecondNumber = double.Parse(Console.ReadLine());
+            var area = FirstNumber * SecondNumber / 2;
+
+            Console.WriteLine(Math.Round(area , 2));
+        }
+    }
+}

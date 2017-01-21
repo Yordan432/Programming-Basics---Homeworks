@@ -1,0 +1,17 @@
+using System;
+
+namespace CircleAreaAndPerimeter
+{
+    class CircleAreaAndPerimeter
+    {
+        static void Main()
+        {
+            double number = double.Parse(Console.ReadLine());
+
+            var area = Math.PI * number * number;
+            var perimeter = 2 * Math.PI * number;
+            Console.WriteLine(area);
+            Console.WriteLine(perimeter);
+        }
+    }
+}

@@ -1,0 +1,25 @@
+using System;
+
+namespace USDBGN
+{
+    class USDBGN
+    {
+        static void Main(string[] args)
+        {
+            double num = double.Parse(Console.ReadLine());
+            string BGN = Console.ReadLine();
+            string USD = Console.ReadLine();
+            string GBP = Console.ReadLine();
+
+            var resultBGN = num * 0.556838;
+            var resultUSD = num * 1.95583;
+            var GBPresult = num * 2.53405;
+            Console.WriteLine(resultBGN);
+            Console.WriteLine(resultUSD);
+            Console.WriteLine(GBPresult);
+
+            
+
+        }
+    }
+}
