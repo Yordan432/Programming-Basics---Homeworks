@@ -1,0 +1,23 @@
+using System;
+
+namespace Rectangle10Stars
+{
+    class Rectangle10Stars
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+            for (int col = 1; col <=10; col++)
+            {
+                for (int row = 1; row <=number; row++)
+                {
+                    Console.Write("*");
+                }
+              if(number == 0)
+                {
+                    Console.WriteLine(new string('*' , 10));
+                }
+            }
+        }
+    }
+}

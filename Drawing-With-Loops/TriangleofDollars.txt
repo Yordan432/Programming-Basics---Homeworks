@@ -1,0 +1,21 @@
+using System;
+
+namespace TriangleofDollars
+{
+    class TriangleofDollars
+    {
+        static void Main()
+        {
+            int dolars = int.Parse(Console.ReadLine());
+
+            for (int row = 1; row <=dolars; row++)
+            {
+                for (int col = 1; col <=row ; col++)
+                {
+                    Console.Write("$ ");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
