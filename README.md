@@ -1,2 +1,0 @@
-# ProgrammingBasicsStudentOctober-Homework
-ProgrammingBasicsStudentOctober
