@@ -1,18 +1,19 @@
 using System;
 
-namespace ConcatenateData
+namespace IncehsCentimeters
 {
-    class ConcatenateData
+    class IncehsCentimeters
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string FirstName = Console.ReadLine();
-            string SecondName = Console.ReadLine();
-            int age = int.Parse(Console.ReadLine());
-            string town = Console.ReadLine();
-
-            Console.WriteLine("You are {0} {1} , a {2} age  -years old person from {3}  " , FirstName , SecondName , age , town);
-
+            var firstName = Console.ReadLine();
+            var lastName = Console.ReadLine();
+            var age = int.Parse(Console.ReadLine());
+            var town = Console.ReadLine();
+            Console.WriteLine(
+              "You are {0} {1}, a {2}-years old person from {3}.",
+              firstName, lastName, age, town);
         }
     }
 }
+
