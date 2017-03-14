@@ -1,19 +1,54 @@
 using System;
-
-namespace CurrencyConverter
+ 
+namespace currencyConvector
 {
-    class CurrencyConverter
+    class currencyConvector
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            var number = double.Parse(Console.ReadLine());
-            var USD = Console.ReadLine();
-            var BGN = Console.ReadLine();
-
-            var result = number * 1.79549;
-            var numberresult = number * 1.95583;
-            var resultnumber = number * 2.53405;
-            Console.WriteLine(result);
+            var amo = double.Parse(Console.ReadLine());
+            var input = Console.ReadLine(); // BGN EUR USD GBP
+            var output = Console.ReadLine(); // GBN EUR USD GBP
+            var lev = 1.00000;
+            var eur = 1.95583;
+            var usd = 1.79549;
+            var gbp = 2.53405;            
+            switch (input)
+            {
+                case "BGN":
+                    amo = amo * lev;
+                    break;
+                case "EUR":
+                    amo = amo * eur;
+                    break;
+                case "USD":
+                    amo = amo * usd;
+                    break;
+                case "GBP":
+                    amo = amo * gbp;
+                    break;
+                default:
+                    break;
+            }
+            switch (output)
+            {
+                case "BGN":
+                    amo = amo / lev;
+                    break;
+                case "EUR":
+                    amo = amo / eur;
+                    break;
+                case "USD":
+                    amo = amo / usd;
+                    break;
+                case "GBP":
+                    amo = amo / gbp;
+                    break;
+                default:
+                    break;
+            }
+            Console.WriteLine(Math.Round(amo, 2));
+ 
         }
     }
 }
