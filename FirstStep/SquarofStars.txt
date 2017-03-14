@@ -6,8 +6,6 @@ namespace SquareofStars
     {
         static void Main()
         { 
-            //ÍÅ ĞÅØÅÍÀ ÄÎÊĞÀÉ ÇÀÄÀ×À
-
             int n = int.Parse(Console.ReadLine());
             Console.WriteLine(new string('*' , n));
 
