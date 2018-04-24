@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Element equal Sum\bin\Debug\Element equal Sum.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Element equal Sum\bin\Debug\Element equal Sum.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Element equal Sum\bin\Debug\Element equal Sum.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Element equal Sum\obj\Debug\Element equal Sum.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Element equal Sum\obj\Debug\Element equal Sum.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Element equal Sum\obj\Debug\Element equal Sum.csprojResolveAssemblyReference.cache

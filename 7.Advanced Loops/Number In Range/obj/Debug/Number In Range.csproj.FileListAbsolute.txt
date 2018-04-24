@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Number In Range\bin\Debug\Number In Range.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Number In Range\bin\Debug\Number In Range.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Number In Range\bin\Debug\Number In Range.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Number In Range\obj\Debug\Number In Range.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Number In Range\obj\Debug\Number In Range.pdb

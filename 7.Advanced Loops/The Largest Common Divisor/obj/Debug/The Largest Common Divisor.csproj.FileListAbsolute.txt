@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\The Largest Common Divisor\bin\Debug\The Largest Common Divisor.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\The Largest Common Divisor\bin\Debug\The Largest Common Divisor.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\The Largest Common Divisor\bin\Debug\The Largest Common Divisor.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\The Largest Common Divisor\obj\Debug\The Largest Common Divisor.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\The Largest Common Divisor\obj\Debug\The Largest Common Divisor.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\The Largest Common Divisor\obj\Debug\The Largest Common Divisor.pdb

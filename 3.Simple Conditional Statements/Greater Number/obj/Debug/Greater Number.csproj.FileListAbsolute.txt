@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Greater Number\bin\Debug\Greater Number.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Greater Number\bin\Debug\Greater Number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Greater Number\bin\Debug\Greater Number.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Greater Number\obj\Debug\Greater Number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Greater Number\obj\Debug\Greater Number.pdb

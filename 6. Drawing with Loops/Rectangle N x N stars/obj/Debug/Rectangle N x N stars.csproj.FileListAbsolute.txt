@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle N x N stars\bin\Debug\Rectangle N x N stars.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle N x N stars\bin\Debug\Rectangle N x N stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle N x N stars\bin\Debug\Rectangle N x N stars.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle N x N stars\obj\Debug\Rectangle N x N stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle N x N stars\obj\Debug\Rectangle N x N stars.pdb

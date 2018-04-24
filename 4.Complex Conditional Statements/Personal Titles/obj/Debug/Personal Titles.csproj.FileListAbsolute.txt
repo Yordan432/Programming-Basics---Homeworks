@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.pdb

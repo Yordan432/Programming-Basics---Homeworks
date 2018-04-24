@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache

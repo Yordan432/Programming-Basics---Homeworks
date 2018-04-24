@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\DayOfWeek\obj\Debug\DayOfWeek.pdb

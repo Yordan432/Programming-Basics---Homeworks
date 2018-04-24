@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\06. Multiply Table\bin\Debug\_06.Multiply_Table.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\06. Multiply Table\bin\Debug\_06.Multiply_Table.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\06. Multiply Table\bin\Debug\_06.Multiply_Table.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\06. Multiply Table\obj\Debug\_06.Multiply_Table.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\06. Multiply Table\obj\Debug\_06.Multiply_Table.pdb

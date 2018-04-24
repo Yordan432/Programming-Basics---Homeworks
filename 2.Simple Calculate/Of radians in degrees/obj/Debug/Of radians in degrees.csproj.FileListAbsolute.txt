@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Of radians in degrees\bin\Debug\Of radians in degrees.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Of radians in degrees\bin\Debug\Of radians in degrees.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Of radians in degrees\bin\Debug\Of radians in degrees.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Of radians in degrees\obj\Debug\Of radians in degrees.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Of radians in degrees\obj\Debug\Of radians in degrees.pdb

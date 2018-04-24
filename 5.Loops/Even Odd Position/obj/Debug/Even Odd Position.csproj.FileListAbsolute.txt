@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Even Odd Position\bin\Debug\Even Odd Position.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Even Odd Position\bin\Debug\Even Odd Position.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Even Odd Position\bin\Debug\Even Odd Position.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Even Odd Position\obj\Debug\Even Odd Position.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Even Odd Position\obj\Debug\Even Odd Position.pdb

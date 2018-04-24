@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\1000 days on Earth\bin\Debug\1000 days on Earth.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\1000 days on Earth\bin\Debug\1000 days on Earth.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\1000 days on Earth\bin\Debug\1000 days on Earth.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\1000 days on Earth\obj\Debug\1000 days on Earth.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\1000 days on Earth\obj\Debug\1000 days on Earth.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\1000 days on Earth\obj\Debug\1000 days on Earth.pdb

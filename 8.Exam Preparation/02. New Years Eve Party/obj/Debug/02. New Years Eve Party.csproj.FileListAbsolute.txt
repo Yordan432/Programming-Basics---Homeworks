@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\02. New Years Eve Party\obj\Debug\_02.New_Years_Eve_Party.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\02. New Years Eve Party\obj\Debug\_02.New_Years_Eve_Party.pdb

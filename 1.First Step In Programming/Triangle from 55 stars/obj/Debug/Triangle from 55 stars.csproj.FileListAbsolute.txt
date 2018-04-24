@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Triangle from 55 stars\bin\Debug\Triangle from 55 stars.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Triangle from 55 stars\bin\Debug\Triangle from 55 stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Triangle from 55 stars\bin\Debug\Triangle from 55 stars.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Triangle from 55 stars\obj\Debug\Triangle from 55 stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Triangle from 55 stars\obj\Debug\Triangle from 55 stars.pdb

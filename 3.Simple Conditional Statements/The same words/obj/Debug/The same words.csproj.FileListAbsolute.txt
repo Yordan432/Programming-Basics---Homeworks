@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\The same words\bin\Debug\The same words.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\The same words\bin\Debug\The same words.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\The same words\bin\Debug\The same words.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\The same words\obj\Debug\The same words.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\The same words\obj\Debug\The same words.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\The same words\obj\Debug\The same words.pdb

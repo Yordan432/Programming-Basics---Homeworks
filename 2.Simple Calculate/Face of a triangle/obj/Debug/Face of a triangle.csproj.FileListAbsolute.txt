@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of a triangle\bin\Debug\Face of a triangle.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of a triangle\bin\Debug\Face of a triangle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of a triangle\bin\Debug\Face of a triangle.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of a triangle\obj\Debug\Face of a triangle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of a triangle\obj\Debug\Face of a triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Numbers up to 1000 ending at 7\bin\Debug\Numbers up to 1000 ending at 7.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Numbers up to 1000 ending at 7\bin\Debug\Numbers up to 1000 ending at 7.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Numbers up to 1000 ending at 7\bin\Debug\Numbers up to 1000 ending at 7.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Numbers up to 1000 ending at 7\obj\Debug\Numbers up to 1000 ending at 7.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Numbers up to 1000 ending at 7\obj\Debug\Numbers up to 1000 ending at 7.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Numbers up to 1000 ending at 7\obj\Debug\Numbers up to 1000 ending at 7.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Invalid Number\obj\Debug\Invalid Number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Invalid Number\obj\Debug\Invalid Number.pdb

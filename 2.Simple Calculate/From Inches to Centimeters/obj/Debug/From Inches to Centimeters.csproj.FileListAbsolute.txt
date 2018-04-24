@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\From Inches to Centimeters\bin\Debug\From Inches to Centimeters.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\From Inches to Centimeters\bin\Debug\From Inches to Centimeters.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\From Inches to Centimeters\bin\Debug\From Inches to Centimeters.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\From Inches to Centimeters\obj\Debug\From Inches to Centimeters.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\From Inches to Centimeters\obj\Debug\From Inches to Centimeters.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\From Inches to Centimeters\obj\Debug\From Inches to Centimeters.pdb

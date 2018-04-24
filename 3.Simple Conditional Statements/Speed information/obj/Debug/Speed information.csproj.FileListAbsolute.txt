@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Speed information\bin\Debug\Speed information.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Speed information\bin\Debug\Speed information.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Speed information\bin\Debug\Speed information.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Speed information\obj\Debug\Speed information.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Speed information\obj\Debug\Speed information.pdb

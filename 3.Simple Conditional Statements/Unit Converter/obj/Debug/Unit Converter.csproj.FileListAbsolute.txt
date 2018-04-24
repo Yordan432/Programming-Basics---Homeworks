@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Unit Converter\bin\Debug\Unit Converter.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Unit Converter\bin\Debug\Unit Converter.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Unit Converter\bin\Debug\Unit Converter.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Unit Converter\obj\Debug\Unit Converter.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Unit Converter\obj\Debug\Unit Converter.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Unit Converter\obj\Debug\Unit Converter.pdb

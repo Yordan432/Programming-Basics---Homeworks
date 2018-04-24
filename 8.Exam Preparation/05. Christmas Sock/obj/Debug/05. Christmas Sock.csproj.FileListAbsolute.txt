@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\05. Christmas Sock\bin\Debug\_05.Christmas_Sock.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\05. Christmas Sock\bin\Debug\_05.Christmas_Sock.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\05. Christmas Sock\bin\Debug\_05.Christmas_Sock.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\05. Christmas Sock\obj\Debug\_05.Christmas_Sock.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\05. Christmas Sock\obj\Debug\_05.Christmas_Sock.pdb

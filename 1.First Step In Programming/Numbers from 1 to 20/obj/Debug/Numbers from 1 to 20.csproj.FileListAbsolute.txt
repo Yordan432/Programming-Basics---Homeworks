@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Numbers from 1 to 20\bin\Debug\Numbers from 1 to 20.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Numbers from 1 to 20\bin\Debug\Numbers from 1 to 20.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Numbers from 1 to 20\bin\Debug\Numbers from 1 to 20.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Numbers from 1 to 20\obj\Debug\Numbers from 1 to 20.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Numbers from 1 to 20\obj\Debug\Numbers from 1 to 20.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Numbers from 1 to 20\obj\Debug\Numbers from 1 to 20.pdb

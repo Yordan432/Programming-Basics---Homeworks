@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Fibonacci\obj\Debug\Fibonacci.pdb

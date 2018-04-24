@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Number 1  to 100\bin\Debug\Number 1  to 100.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Number 1  to 100\bin\Debug\Number 1  to 100.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Number 1  to 100\bin\Debug\Number 1  to 100.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Number 1  to 100\obj\Debug\Numbers 1  to 100.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Number 1  to 100\obj\Debug\Number 1  to 100.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Number 1  to 100\obj\Debug\Number 1  to 100.pdb

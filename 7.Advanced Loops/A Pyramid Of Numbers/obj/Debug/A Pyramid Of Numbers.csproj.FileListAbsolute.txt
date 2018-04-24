@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\A Pyramid Of Numbers\bin\Debug\A Pyramid Of Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\A Pyramid Of Numbers\bin\Debug\A Pyramid Of Numbers.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\A Pyramid Of Numbers\bin\Debug\A Pyramid Of Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\A Pyramid Of Numbers\obj\Debug\A Pyramid Of Numbers.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\A Pyramid Of Numbers\obj\Debug\A Pyramid Of Numbers.pdb

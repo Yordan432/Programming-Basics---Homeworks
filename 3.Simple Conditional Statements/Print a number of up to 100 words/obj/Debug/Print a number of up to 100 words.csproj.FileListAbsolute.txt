@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Print a number of up to 100 words\bin\Debug\Print a number of up to 100 words.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Print a number of up to 100 words\bin\Debug\Print a number of up to 100 words.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Print a number of up to 100 words\bin\Debug\Print a number of up to 100 words.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Print a number of up to 100 words\obj\Debug\Print a number of up to 100 words.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Print a number of up to 100 words\obj\Debug\Print a number of up to 100 words.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Print a number of up to 100 words\obj\Debug\Print a number of up to 100 words.pdb

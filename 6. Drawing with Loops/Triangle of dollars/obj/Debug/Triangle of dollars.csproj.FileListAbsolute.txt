@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Triangle of dollars\bin\Debug\Triangle of dollars.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Triangle of dollars\bin\Debug\Triangle of dollars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Triangle of dollars\bin\Debug\Triangle of dollars.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Triangle of dollars\obj\Debug\Triangle of dollars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Triangle of dollars\obj\Debug\Triangle of dollars.pdb

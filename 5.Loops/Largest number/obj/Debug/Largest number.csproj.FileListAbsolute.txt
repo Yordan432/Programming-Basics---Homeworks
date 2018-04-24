@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Largest number\bin\Debug\Largest number.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Largest number\bin\Debug\Largest number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Largest number\bin\Debug\Largest number.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Largest number\obj\Debug\Largest number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Largest number\obj\Debug\Largest number.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Largest number\obj\Debug\Largest number.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Area Rectangle\bin\Debug\Area Rectangle.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Area Rectangle\bin\Debug\Area Rectangle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Area Rectangle\bin\Debug\Area Rectangle.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Area Rectangle\obj\Debug\Area Rectangle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\1.First Step In Programming\Area Rectangle\obj\Debug\Area Rectangle.pdb

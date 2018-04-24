@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Cinema\bin\Debug\Cinema.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Cinema\obj\Debug\Cinema.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Cinema\obj\Debug\Cinema.pdb

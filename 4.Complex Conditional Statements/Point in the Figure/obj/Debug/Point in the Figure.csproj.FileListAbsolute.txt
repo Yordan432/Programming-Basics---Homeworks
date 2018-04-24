@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Perimeter and face of a circle\bin\Debug\Perimeter and face of a circle.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Perimeter and face of a circle\bin\Debug\Perimeter and face of a circle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Perimeter and face of a circle\bin\Debug\Perimeter and face of a circle.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Perimeter and face of a circle\obj\Debug\Perimeter and face of a circle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Perimeter and face of a circle\obj\Debug\Perimeter and face of a circle.pdb

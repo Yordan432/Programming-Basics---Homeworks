@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\from degrees Celsius to degrees Fahrenheit\bin\Debug\from degrees Celsius to degrees Fahrenheit.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\from degrees Celsius to degrees Fahrenheit\bin\Debug\from degrees Celsius to degrees Fahrenheit.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\from degrees Celsius to degrees Fahrenheit\bin\Debug\from degrees Celsius to degrees Fahrenheit.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\from degrees Celsius to degrees Fahrenheit\obj\Debug\from degrees Celsius to degrees Fahrenheit.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\from degrees Celsius to degrees Fahrenheit\obj\Debug\from degrees Celsius to degrees Fahrenheit.pdb

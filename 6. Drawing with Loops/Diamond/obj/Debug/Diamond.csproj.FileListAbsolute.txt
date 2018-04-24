@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Diamond\bin\Debug\Diamond.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Diamond\bin\Debug\Diamond.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Diamond\obj\Debug\Diamond.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Diamond\obj\Debug\Diamond.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache

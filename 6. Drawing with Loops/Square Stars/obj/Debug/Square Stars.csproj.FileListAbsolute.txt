@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Square Stars\bin\Debug\Square Stars.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Square Stars\bin\Debug\Square Stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Square Stars\bin\Debug\Square Stars.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Square Stars\obj\Debug\Square Stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Square Stars\obj\Debug\Square Stars.pdb

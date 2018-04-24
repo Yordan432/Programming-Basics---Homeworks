@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\03. Ivanovi's Holiday\obj\Debug\03. Ivanovi's Holiday.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\03. Ivanovi's Holiday\obj\Debug\_03.Ivanovi_s_Holiday.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\03. Ivanovi's Holiday\obj\Debug\_03.Ivanovi_s_Holiday.pdb

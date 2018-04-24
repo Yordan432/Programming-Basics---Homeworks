@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.pdb

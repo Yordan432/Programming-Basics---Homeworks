@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Romb of stars\bin\Debug\Romb of stars.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Romb of stars\bin\Debug\Romb of stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Romb of stars\bin\Debug\Romb of stars.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Romb of stars\obj\Debug\Romb of stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Romb of stars\obj\Debug\Romb of stars.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Romb of stars\obj\Debug\Rhomb of stars.csprojResolveAssemblyReference.cache

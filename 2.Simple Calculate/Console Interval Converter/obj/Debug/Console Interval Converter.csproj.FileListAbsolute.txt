@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Console Interval Converter\bin\Debug\Console Interval Converter.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Console Interval Converter\bin\Debug\Console Interval Converter.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Console Interval Converter\bin\Debug\Console Interval Converter.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Console Interval Converter\obj\Debug\Console Interval Converter.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Console Interval Converter\obj\Debug\Console Interval Converter.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Console Interval Converter\obj\Debug\Console Interval Converter.pdb

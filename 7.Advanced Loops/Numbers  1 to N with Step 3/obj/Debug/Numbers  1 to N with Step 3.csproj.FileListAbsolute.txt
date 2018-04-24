@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Numbers  1 to N with Step 3\bin\Debug\Numbers  1 to N with Step 3.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Numbers  1 to N with Step 3\bin\Debug\Numbers  1 to N with Step 3.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Numbers  1 to N with Step 3\bin\Debug\Numbers  1 to N with Step 3.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Numbers  1 to N with Step 3\obj\Debug\Numbers  1 to N with Step 3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Numbers  1 to N with Step 3\obj\Debug\Numbers  1 to N with Step 3.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Numbers  1 to N with Step 3\obj\Debug\Numbers  1 to N with Step 3.pdb

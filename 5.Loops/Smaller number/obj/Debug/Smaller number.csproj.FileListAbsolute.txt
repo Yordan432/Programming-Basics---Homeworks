@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Smaller number\bin\Debug\Smaller number.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Smaller number\bin\Debug\Smaller number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Smaller number\bin\Debug\Smaller number.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Smaller number\obj\Debug\Smaller number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Smaller number\obj\Debug\Smaller number.pdb

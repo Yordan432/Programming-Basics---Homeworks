@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.pdb

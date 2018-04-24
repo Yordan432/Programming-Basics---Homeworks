@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Is Prime Number\bin\Debug\Is Prime Number.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Is Prime Number\bin\Debug\Is Prime Number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Is Prime Number\bin\Debug\Is Prime Number.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Is Prime Number\obj\Debug\Is Prime Number.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Is Prime Number\obj\Debug\Is Prime Number.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Is Prime Number\obj\Debug\Is Prime Number.csprojResolveAssemblyReference.cache

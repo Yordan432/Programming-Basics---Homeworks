@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle from 10 x 10 stars\bin\Debug\Rectangle from 10 x 10 stars.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle from 10 x 10 stars\bin\Debug\Rectangle from 10 x 10 stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle from 10 x 10 stars\bin\Debug\Rectangle from 10 x 10 stars.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle from 10 x 10 stars\obj\Debug\Rectangle from 10 x 10 stars.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle from 10 x 10 stars\obj\Debug\Rectangle from 10 x 10 stars.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\6. Drawing with Loops\Rectangle from 10 x 10 stars\obj\Debug\Rectangle from 10 x 10 stars.pdb

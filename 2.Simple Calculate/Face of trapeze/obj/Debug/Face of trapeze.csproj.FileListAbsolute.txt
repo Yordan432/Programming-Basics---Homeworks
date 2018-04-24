@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of trapeze\bin\Debug\Face of trapeze.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of trapeze\bin\Debug\Face of trapeze.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of trapeze\bin\Debug\Face of trapeze.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of trapeze\obj\Debug\Face of trapeze.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Face of trapeze\obj\Debug\Face of trapeze.pdb

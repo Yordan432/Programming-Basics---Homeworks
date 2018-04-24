@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Equal Pairs\bin\Debug\Equal Pairs.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Equal Pairs\bin\Debug\Equal Pairs.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Equal Pairs\obj\Debug\Equal Pairs.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Equal Pairs\obj\Debug\Equal Pairs.pdb

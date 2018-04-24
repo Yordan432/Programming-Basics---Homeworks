@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in Rectangle\bin\Debug\Point in Rectangle.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in Rectangle\bin\Debug\Point in Rectangle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in Rectangle\bin\Debug\Point in Rectangle.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in Rectangle\obj\Debug\Point in Rectangle.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\4.Complex Conditional Statements\Point in Rectangle\obj\Debug\Point in Rectangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\All Latin letters\bin\Debug\All Latin letters.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\All Latin letters\bin\Debug\All Latin letters.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\All Latin letters\bin\Debug\All Latin letters.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\All Latin letters\obj\Debug\All Latin letters.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\All Latin letters\obj\Debug\All Latin letters.pdb

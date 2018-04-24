@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\Workout\bin\Debug\Workout.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\Workout\bin\Debug\Workout.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\Workout\bin\Debug\Workout.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\Workout\obj\Debug\Workout.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\8.Exam Preparation\Workout\obj\Debug\Workout.pdb

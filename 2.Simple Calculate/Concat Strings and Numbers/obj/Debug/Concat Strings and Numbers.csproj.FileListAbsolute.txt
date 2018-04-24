@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Concat Strings and Numbers\bin\Debug\Concat Strings and Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Concat Strings and Numbers\bin\Debug\Concat Strings and Numbers.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Concat Strings and Numbers\bin\Debug\Concat Strings and Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Concat Strings and Numbers\obj\Debug\Concat Strings and Numbers.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\2.Simple Calculate\Concat Strings and Numbers\obj\Debug\Concat Strings and Numbers.pdb

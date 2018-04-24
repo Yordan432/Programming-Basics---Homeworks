@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Sum The Alphabet\bin\Debug\Sum The Alphabet.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Sum The Alphabet\bin\Debug\Sum The Alphabet.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Sum The Alphabet\bin\Debug\Sum The Alphabet.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Sum The Alphabet\obj\Debug\Sum The Alphabet.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\5.Loops\Sum The Alphabet\obj\Debug\Sum The Alphabet.pdb

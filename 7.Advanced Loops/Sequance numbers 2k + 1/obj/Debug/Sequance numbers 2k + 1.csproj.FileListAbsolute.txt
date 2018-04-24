@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Sequance numbers 2k + 1\bin\Debug\Sequance numbers 2k + 1.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Sequance numbers 2k + 1\bin\Debug\Sequance numbers 2k + 1.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Sequance numbers 2k + 1\bin\Debug\Sequance numbers 2k + 1.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Sequance numbers 2k + 1\obj\Debug\Sequance numbers 2k + 1.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\7.Advanced Loops\Sequance numbers 2k + 1\obj\Debug\Sequance numbers 2k + 1.pdb

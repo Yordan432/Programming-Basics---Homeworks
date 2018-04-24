@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Time 15 minutes\bin\Debug\Time 15 minutes.exe.config
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Time 15 minutes\bin\Debug\Time 15 minutes.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Time 15 minutes\bin\Debug\Time 15 minutes.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Time 15 minutes\obj\Debug\Time 15 minutes.exe
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Time 15 minutes\obj\Debug\Time 15 minutes.pdb
+C:\Users\DELL\Documents\СофтУни\1.Programming Basics with C#\3.Simple Conditional Statements\Time 15 minutes\obj\Debug\Time 15 minutes.csprojResolveAssemblyReference.cache
