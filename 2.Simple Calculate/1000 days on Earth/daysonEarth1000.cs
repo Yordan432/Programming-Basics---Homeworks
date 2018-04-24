@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-class daysonEarth1000
+class DaysonEarth1000
 {
     static void Main()
     {
