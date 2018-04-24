@@ -1,5 +1,5 @@
 ﻿using System;
-class FaceofAtriangle
+class FaceofAtTiangle
 {
     static void Main()
     {
