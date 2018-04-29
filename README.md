@@ -1,2 +1,1 @@
-# ProgrammingBasicsStudentOctober-Homework
-ProgrammingBasicsStudentOctober
+# Programming Basics
